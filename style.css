@@ -1,0 +1,35 @@
+.border-box {
+    background-color: white;
+    border: 2px solid black;
+    /* Lebar border dan warna */
+    padding: 10px;
+    /* Padding di dalam kotak */
+    margin: 0 auto;
+    /* Memindahkan kotak ke tengah */
+    margin-top: 20px;
+    width: 60%;
+    margin-bottom: 10px;
+    /* Lebar kotak */
+
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+    /* Lebar border dan warna */
+    padding: 15px;
+    /* Padding di dalam kotak */
+    margin: 0 auto;
+    /* Memindahkan kotak ke tengah */
+    margin-bottom: 20px;
+    width: 50%;
+    /* Lebar kotak */
+}
+
+.waktu {
+    text-align: center;
+    font-size: 40px;
+
+}
